@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "name": "Toyota Corolla",
+        "brand": "Toyota",
+        "price": 20000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/2025-toyota-gr-corolla-114-6716726ea18f7.jpg?crop=0.880xw:0.743xh;0.0849xw,0.207xh&resize=1200:*",
+        "description": "A reliable and fuel-efficient sedan, perfect for daily commuting and city driving."
+    },
+    {
+        "id": 2,
+        "name": "Toyota Prius",
+        "brand": "Toyota",
+        "price": 25000,
+        "fuelType": "Hybrid",
+        "seatingCapacity": 5,
+        "image": "https://img.autocarindia.com/ExtraImages/20170808014718_Plugin_01.jpg?w=700&c=1",
+        "description": "A pioneering hybrid car that blends eco-friendliness with smooth performance."
+    },
+    {
+        "id": 3,
+        "name": "Honda Civic",
+        "brand": "Honda",
+        "price": 22000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "https://images.unsplash.com/photo-1594070319944-7c0cbebb6f58?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A compact car offering stylish looks and agile handling."
+    },
+    {
+        "id": 4,
+        "name": "Honda Accord",
+        "brand": "Honda",
+        "price": 27000,
+        "fuelType": "Hybrid",
+        "seatingCapacity": 5,
+        "image": "https://images.unsplash.com/photo-1634737581963-5a22ba471961?q=80&w=1886&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A spacious mid-size sedan with a refined hybrid engine."
+    },
+    {
+        "id": 5,
+        "name": "Ford Mustang",
+        "brand": "Ford",
+        "price": 30000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 4,
+        "image": "https://images.unsplash.com/photo-1547744152-14d985cb937f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "An iconic American muscle car with aggressive styling and thrilling performance."
+    },
+    {
+        "id": 6,
+        "name": "Ford Explorer",
+        "brand": "Ford",
+        "price": 35000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 7,
+        "image": "https://images.unsplash.com/photo-1670069247956-1a6dfee5338e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A powerful SUV designed for adventure and family road trips."
+    },
+    {
+        "id": 7,
+        "name": "BMW 3 Series",
+        "brand": "BMW",
+        "price": 40000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "https://images.unsplash.com/photo-1653751749083-63c81f5f3d00?q=80&w=1952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A premium sedan offering a balanced mix of luxury and performance."
+    },
+    {
+        "id": 8,
+        "name": "BMW X5",
+        "brand": "BMW",
+        "price": 55000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 5,
+        "image": "https://images.unsplash.com/photo-1653227158553-ddaa680cdd65?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A luxury SUV with strong diesel power and top-tier comfort."
+    },
+    {
+        "id": 9,
+        "name": "Mercedes-Benz A-Class",
+        "brand": "Mercedes",
+        "price": 42000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "https://images.unsplash.com/photo-1590216255837-24412b004996?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TWVyY2VkZXMlMjBCZW56JTIwQSUyMENsYXNzfGVufDB8fDB8fHww",
+        "description": "A stylish hatchback packed with modern features and a classy interior."
+    },
+    {
+        "id": 10,
+        "name": "Mercedes-Benz GLE",
+        "brand": "Mercedes",
+        "price": 65000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 7,
+        "image": "https://images.unsplash.com/photo-1654306369985-0fb9e1a2baf5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A high-end SUV with spacious seating and strong towing capacity."
+    },
+    {
+        "id": 11,
+        "name": "Audi A4",
+        "brand": "Audi",
+        "price": 39000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "https://images.unsplash.com/photo-1597007030739-6d2e7172ee5b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A sleek executive sedan with precise handling and a luxurious cabin."
+    },
+    {
+        "id": 12,
+        "name": "Audi Q7",
+        "brand": "Audi",
+        "price": 70000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 7,
+        "image": "https://c.ndtvimg.com/2024-11/6shje9dg_audi-q7-facelift-_625x300_27_November_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+        "description": "A large luxury SUV perfect for families and long-distance travel."
+    },
+    {
+        "id": 13,
+        "name": "Toyota Fortuner",
+        "brand": "Toyota",
+        "price": 45000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 7,
+        "image": "https://images.unsplash.com/photo-1557863618-9643198cb07b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A rugged SUV that can handle rough terrains with ease."
+    },
+    {
+        "id": 14,
+        "name": "Honda CR-V",
+        "brand": "Honda",
+        "price": 33000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "https://www.graingerhonda.com/static/dealer-24638/Conquest_One/Blogs/2025-honda-grand-cr-v-virtually.jpg",
+        "description": "A compact SUV known for comfort, reliability, and cargo space."
+    },
+    {
+        "id": 15,
+        "name": "Ford EcoSport",
+        "brand": "Ford",
+        "price": 21000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/2018-ford-ecosport-mmp-1-1637615492.jpg",
+        "description": "A subcompact SUV that's affordable and fun to drive."
+    },
+    {
+        "id": 16,
+        "name": "Toyota Camry",
+        "brand": "Toyota",
+        "price": 28000,
+        "fuelType": "Hybrid",
+        "seatingCapacity": 5,
+        "image": "https://images.unsplash.com/photo-1657872737697-737a2d123ef2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A refined and efficient sedan with a smooth hybrid powertrain."
+    },
+    {
+        "id": 17,
+        "name": "Honda Jazz",
+        "brand": "Honda",
+        "price": 18000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "https://img.autocarindia.com/ExtraImages/20190926113036_Next-gen-Honda-Jazz-render.jpg?w=700&c=1",
+        "description": "A small hatchback with surprising space and city-friendly design."
+    },
+    {
+        "id": 18,
+        "name": "Ford F-150",
+        "brand": "Ford",
+        "price": 50000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 5,
+        "image": "https://images.unsplash.com/photo-1590053936004-faca6038bfec?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A tough full-size pickup truck with great towing and payload capacity."
+    },
+    {
+        "id": 19,
+        "name": "BMW X3",
+        "brand": "BMW",
+        "price": 48000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "https://images.unsplash.com/photo-1681113163879-b36638289c54?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A sporty SUV that combines utility with driving pleasure."
+    },
+    {
+        "id": 20,
+        "name": "Mercedes-Benz C-Class",
+        "brand": "Mercedes",
+        "price": 53000,
+        "fuelType": "Hybrid",
+        "seatingCapacity": 5,
+        "image": "https://images.unsplash.com/photo-1652549423957-d9c4445ee9bf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A luxurious compact executive car with elegant looks and tech features."
+    },
+    {
+        "id": 21,
+        "name": "Audi A6",
+        "brand": "Audi",
+        "price": 60000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A premium sedan with a spacious interior and powerful engine options."
+    },
+    {
+        "id": 22,
+        "name": "Toyota RAV4",
+        "brand": "Toyota",
+        "price": 32000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "https://images.unsplash.com/photo-1706509240407-7f3aa19ae740?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A compact crossover that offers safety, tech, and fuel economy."
+    },
+    {
+        "id": 23,
+        "name": "Honda BR-V",
+        "brand": "Honda",
+        "price": 24000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 7,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2022_Honda_BR-V_Prestige_with_Honda_Sensing_1.5_DG3_%2820220429%29.jpg/1200px-2022_Honda_BR-V_Prestige_with_Honda_Sensing_1.5_DG3_%2820220429%29.jpg",
+        "description": "A practical 7-seater perfect for large families and group travel."
+    },
+    {
+        "id": 24,
+        "name": "Ford Fusion",
+        "brand": "Ford",
+        "price": 25000,
+        "fuelType": "Hybrid",
+        "seatingCapacity": 5,
+        "image": "https://www.vdm.ford.com/content/dam/brand_ford/en_us/brand/cars/fusion/sunset/FL10383620_FUSI_Hyb_SE_34FrntPassStcVlctyBlueNight_mj_16x9.jpg/jcr:content/renditions/cq5dam.web.768.768.jpeg",
+        "description": "A midsize hybrid sedan with sleek design and excellent fuel economy."
+    },
+    {
+        "id": 25,
+        "name": "BMW i3",
+        "brand": "BMW",
+        "price": 42000,
+        "fuelType": "Electric",
+        "seatingCapacity": 4,
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-i3/1540/1554467107207/front-left-side-47.jpg",
+        "description": "A futuristic electric hatchback designed for urban mobility."
+    },
+    {
+        "id": 26,
+        "name": "Mercedes EQB",
+        "brand": "Mercedes",
+        "price": 70000,
+        "fuelType": "Electric",
+        "seatingCapacity": 7,
+        "image": "https://www.financialexpress.com/wp-content/uploads/2022/10/mercedes-benz-eqb-2.jpg",
+        "description": "An all-electric family SUV with top-notch comfort and range."
+    },
+    {
+        "id": 27,
+        "name": "Audi e-tron",
+        "brand": "Audi",
+        "price": 75000,
+        "fuelType": "Electric",
+        "seatingCapacity": 5,
+        "image": "https://images.unsplash.com/photo-1655126275641-21e114342284?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8QXVkaSUyMGUlMjB0cm9ufGVufDB8fDB8fHww",
+        "description": "A premium electric SUV with advanced tech and all-wheel drive."
+    },
+    {
+        "id": 28,
+        "name": "Toyota Yaris",
+        "brand": "Toyota",
+        "price": 19000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg",
+        "description": "A compact and economical hatchback ideal for urban use."
+    },
+    {
+        "id": 29,
+        "name": "Honda City",
+        "brand": "Honda",
+        "price": 23000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Honda/City/9421/1739862184352/front-left-side-47.jpg",
+        "description": "A reliable sedan with refined interiors and smooth ride quality."
+    },
+    {
+        "id": 30,
+        "name": "Ford Ranger",
+        "brand": "Ford",
+        "price": 37000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 5,
+        "image": "https://dragon2000-multisite.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/524/2024/10/11130148/Ford-Ranger-Wildtrak-moondust-silver.jpg",
+        "description": "A tough pickup truck suitable for work and recreational off-road use."
+    },
+    {
+        "id": 31,
+        "name": "BMW Z4 Roadster",
+        "brand": "BMW",
+        "price": 63000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 2,
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/Z4/10183/1685003672330/front-left-side-47.jpg",
+        "description": "A stylish and agile convertible built for spirited driving."
+    },
+    {
+        "id": 32,
+        "name": "BMW i8 Coupe",
+        "brand": "BMW",
+        "price": 140000,
+        "fuelType": "Hybrid",
+        "seatingCapacity": 2,
+        "image": "https://cdn-www.pod-point.com/i8-coupe-white-background.jpg?v=1548764851",
+        "description": "Futuristic plug-in hybrid with dynamic looks and performance."
+    },
+    {
+        "id": 33,
+        "name": "Mercedes-AMG GT",
+        "brand": "Mercedes",
+        "price": 155000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 2,
+        "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A luxurious sports car with powerful performance and sharp handling."
+    },
+    {
+        "id": 34,
+        "name": "Mercedes-Benz SLC",
+        "brand": "Mercedes",
+        "price": 60000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 2,
+        "image": "https://www.topgear.com/sites/default/files/cars-car/image/2016/06/1mercslcncbgjune2016.jpg",
+        "description": "Compact and stylish roadster perfect for open-top fun."
+    },
+    {
+        "id": 35,
+        "name": "Audi R8 V10 Spyder",
+        "brand": "Audi",
+        "price": 170000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 2,
+        "image": "https://www.topgear.com/sites/default/files/2022/02/1-Audi-R8-Spyder.jpg",
+        "description": "Audi’s iconic supercar convertible with a roaring V10 engine."
+    }
+]
